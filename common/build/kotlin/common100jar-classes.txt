@@ -1,0 +1,1 @@
+/home/moal/Desktop/projects/jvm/kotlin/ia/common/build/classes/kotlin/main/com/helabyte/ia/api/dto/Category.class
